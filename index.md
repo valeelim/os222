@@ -1,4 +1,4 @@
 ---
 ---
-[HOME]({{ site.baseurl }}/) --- [LOG]({{ site.mylogtxt }}/)
+[HOME]({{ site.baseurl }}/) --- [LOG]({{ site.myloglink }}/)
 
