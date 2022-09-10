@@ -11,8 +11,8 @@
 <br>
 <hr>
 This is {{ site.title }} and I am {{ site.author }}.
-<br><br>
+<br
 <hr>
-{{ site.author }}
+&copy; {{ site.copyright }} --- {{ site.author }}
 <hr>
 
