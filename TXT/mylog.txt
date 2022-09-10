@@ -10,4 +10,12 @@ ZCZC W00 10 L04 GitHub Pages related
 ZCZC W00 20 L05 Quiz related including studying
 ZCZC W00 100 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W00 80 L09 Weekly 00 Assignments
+ZCZC W01 110 L02 ZOOM meetings related
+ZCZC W01 30 L03 _config.yml, index.md, and links.md related
+ZCZC W01 30 L04 Included several links
+ZCZC W01 60 L05 Quiz related including studying
+ZCZC W01 60 L06 References/GSGS related
+ZCZC W01 120 L09 Weekly 01 Assignments
+ZCZC W01 15 L28 Installs Jekyll and Ruby
+ZCZC W01 70 L31 VirtualBox: install GNU/Linux
 
