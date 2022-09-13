@@ -14,7 +14,7 @@ permalink: LINKS/
     This video gave me a pretty good understanding on how regex works (simple ones at least).<br>
     It also introduced me to [this](https://www.debuggex.com/) tool which visualizes the written regex syntax.
 
-3. How to Use Square Brackets in Bash [Part I](https://www.linux.com/training-tutorials/using-square-brackets-bash-part-1/) and [Part II](https://www.linux.com/training-tutorials/using-square-brackets-bash-part-2/)
+3. [How to Use Square Brackets in Bash Part I](https://www.linux.com/training-tutorials/using-square-brackets-bash-part-1/) and [Part II](https://www.linux.com/training-tutorials/using-square-brackets-bash-part-2/)
     
     This article discusses about `[]` in Bash which they explained really well in my opinion. It mentions about what are the uses for the square brackets and also some examples of why you might want to use them.
 
