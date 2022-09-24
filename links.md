@@ -35,3 +35,15 @@ permalink: LINKS/
 
     This video provides explanation on `awk` commands and with pretty good and straightforward explanation. Highly recommended for beginners in my personal opinion.
 
+## Week 03
+1. [What does this line mean?](https://explainshell.com/)
+    
+    As a student learning command lines related things, you might sometimes encounter a certain command line that you just have no clue what that command line is about. Fear not since you have this site that explains what that gibberish means.
+
+2. [What is SED?](https://www.youtube.com/watch?v=EACe7aiGczw)
+
+    I've linked this youtube channel before, but I can't deny that I really like how he explains the topics. It provides multiple use cases of SED and the explanation is easy to understand since he pairs it up with examples.
+
+3. [VIM: Oh wait what just happened](https://www.keycdn.com/blog/vim-commands)
+
+    You might see some 'gods' just type things in VIM like it's no big deal with amazing speed and accuracy. Then you think to yourself, what did he just press to enable what just happened. Well this link is a perfect resource for you, since it explains a lot of VIM commands that I just can't seem to find for a long time.
