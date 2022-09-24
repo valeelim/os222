@@ -29,3 +29,12 @@ ZCZC W02 40 L26 GnuPG, key-gen, encrypt/decrypt
 ZCZC W02 40 L32 Youtube: watching OS related topics, etc
 ZCZC W02 5 L41 TXT/mylog.txt related
 ZCZC W02 10 L43 TXT/myrank.txt related
+ZCZC W03 110 L02 ZOOM meetings related
+ZCZC W03 110 L00 Offline class
+ZCZC W03 150 L13 Assignment #03
+ZCZC W03 60 L05 Quiz related including studying
+ZCZC W03 40 L06 GSGS related
+ZCZC W03 20 L41 TXT/mylog.txt related
+ZCZC W03 20 L43 TXT/myrank.txt related
+ZCZC W03 20 L22 Linux CLI including tar, etc
+ZCZC W03 30 L23 SED related
