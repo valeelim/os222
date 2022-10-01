@@ -47,3 +47,16 @@ permalink: LINKS/
 3. [VIM: Oh wait what just happened](https://www.keycdn.com/blog/vim-commands)
 
     You might see some 'gods' just type things in VIM like it's no big deal with amazing speed and accuracy. Then you think to yourself, what did he just press to enable what just happened. Well this link is a perfect resource for you, since it explains a lot of VIM commands that I just can't seem to find for a long time.
+
+## Week 04
+1. [Files & File Systems](https://www.youtube.com/watch?v=KN8YgJnShPM)
+
+    It's made by CrashCourse, which I've liked for a long time. They explain things very well, especially with graphics included. It's really easy to understand. Highly recommended.
+
+2. [How Does It Manage It's Memory ?](https://www.youtube.com/watch?v=qdkxXygc3rE)
+
+    A brief explanation into how memory is managed in computers. Personally I am a visual learner guy, so in my opinion, graphics are a tremendous help. This video did just that, and did it well and simple enough for me to understand. It's also not that long of a video which is helpful for me since longer videos does not really work with me.
+
+3. [Printf Prints What???](https://en.wikipedia.org/wiki/Printf_format_string#:~:text=%22printf%22%20is%20the%20name%20of,parsing)
+
+    It is wikipedia, which is quite weird in some articles, but not on others. This particular page discusses about the format specifiers that printf accepts. That's why I use wikipedia cause I expect it to have a pretty complete list. One drawback of this site is that it does not come with examples which would've been especially helpful.
