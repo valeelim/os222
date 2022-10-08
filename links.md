@@ -60,3 +60,16 @@ permalink: LINKS/
 3. [Printf Prints What???](https://en.wikipedia.org/wiki/Printf_format_string#:~:text=%22printf%22%20is%20the%20name%20of,parsing)
 
     It is wikipedia, which is quite weird in some articles, but not on others. This particular page discusses about the format specifiers that printf accepts. That's why I use wikipedia cause I expect it to have a pretty complete list. One drawback of this site is that it does not come with examples which would've been especially helpful.
+
+## Week 05
+1. [Virtual Memory Explained (Not Gary Explains)](https://www.youtube.com/watch?v=5lFnKYCZT5o)
+
+    Yes, it is pretty lengthy, but well worth it. Computerphile never disappoints in bringing out good quality educational content as always. This video gives a clear understanding to how virtual memory works, how it resides in the memory management side of things in a computer. Highly recommended
+
+2. [Paged? Segmented? Huh?](https://www.youtube.com/watch?v=p9yZNLeOj4s)
+
+    Great video to learn about the difference between the two common types of memory management, which is paged and also segmented. It also gives a brief explanation of virtual memory as well if you want to check it out. It's not that long of a video and a 7 minute worth well spent.
+
+3. [Pointers and Dynamic Memory (Stack vs Heap)](https://www.youtube.com/watch?v=_8-ht2AKyH4)
+
+    Another long video ~17mins. Gives a great explanation of memory by comparing it side by side with a C++ program. It describes how variables are allocated in the memory whether it's the heap or stack. The video also provides an explanation of how each variables are referenced by pointers and much more.
