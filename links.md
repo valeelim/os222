@@ -73,3 +73,12 @@ permalink: LINKS/
 3. [Pointers and Dynamic Memory (Stack vs Heap)](https://www.youtube.com/watch?v=_8-ht2AKyH4)
 
     Another long video ~17mins. Gives a great explanation of memory by comparing it side by side with a C++ program. It describes how variables are allocated in the memory whether it's the heap or stack. The video also provides an explanation of how each variables are referenced by pointers and much more.
+
+## Week 06
+1. [Process Synchronization](https://www.youtube.com/watch?v=eKKc0d7kzww)
+    
+    A concise video that explains process synchronization. Animations helped a ton in understanding the whole concept. It's also pretty short spanning just 5 minutes of my time which is perfect for watching whilst eating or doing other things.
+
+2. [Threads and Concurrency](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8)
+
+    A 10-minute read material from medium, but you can also listen to it which is nice. Explains about threads and concurrency very well and especially helpful with the drawings. Also explains disadvantages and advantages of each thread models.

@@ -58,4 +58,14 @@ ZCZC W05 60 L01 SCELE related
 ZCZC W05 30 L31 VirtualBox related
 ZCZC W05 30 L25 C-language including Make
 ZCZC W05 60 L21 Trying something
+ZCZC W06 220 L00 Offline class
+ZCZC W06 100 L15 Assignment #06
+ZCZC W06 60 L05 Quiz related including studying
+ZCZC W06 60 L06 GSGS related
+ZCZC W06 20 L41 TXT/mylog.txt related
+ZCZC W06 30 L43 TXT/myrank.txt related
+ZCZC W06 60 L01 SCELE related
+ZCZC W06 30 L31 VirtualBox related
+ZCZC W06 30 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W06 60 L21 Trying something
 
