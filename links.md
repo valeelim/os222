@@ -82,3 +82,12 @@ permalink: LINKS/
 2. [Threads and Concurrency](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8)
 
     A 10-minute read material from medium, but you can also listen to it which is nice. Explains about threads and concurrency very well and especially helpful with the drawings. Also explains disadvantages and advantages of each thread models.
+
+## Week 07
+1. [What is a Virtual Machine](https://www.youtube.com/watch?v=yIVXjl4SwVo)
+
+    Short video about virtual machines. Totally recommended for people who are scrunched up chasing assignments everywhere since it's just 3 minutes.
+
+2. [Computer Networks](https://www.youtube.com/watch?v=3QhU9jd03a0)
+
+    Crash Course video about computer networks. Explained networks incredibly well as usual, because they provide numerous diagrams for us viewers to understand.
