@@ -78,4 +78,13 @@ ZCZC W07 60 L01 SCELE related
 ZCZC W07 30 L31 VirtualBox related
 ZCZC W07 30 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
 ZCZC W07 60 L21 Trying something
-
+ZCZC W08 110 L00 Offline class
+ZCZC W08 300 L15 Assignment #08
+ZCZC W08 60 L05 Quiz related including studying
+ZCZC W08 60 L06 GSGS related
+ZCZC W08 20 L41 TXT/mylog.txt related
+ZCZC W08 30 L43 TXT/myrank.txt related
+ZCZC W08 60 L01 SCELE related
+ZCZC W08 30 L31 VirtualBox related
+ZCZC W08 30 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W08 60 L21 Trying something

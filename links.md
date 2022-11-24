@@ -91,3 +91,12 @@ permalink: LINKS/
 2. [Computer Networks](https://www.youtube.com/watch?v=3QhU9jd03a0)
 
     Crash Course video about computer networks. Explained networks incredibly well as usual, because they provide numerous diagrams for us viewers to understand.
+
+## Week 08
+1. [Referenced Source](https://www.linuxfromscratch.org/lfs/view/11.2/)
+
+    The book used for this week's assignment. Exceptionally helpful since it actually explains most of what's going on, and what we're running.
+
+2. [How Process Synchronization works](https://www.studytonight.com/operating-system/process-synchronization)
+    
+    An article that talks about process synchronization in an operating system. It's a great short read since it talks about things in an understandable manner without too many technical terms.
