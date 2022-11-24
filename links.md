@@ -100,3 +100,9 @@ permalink: LINKS/
 2. [How Process Synchronization works](https://www.studytonight.com/operating-system/process-synchronization)
     
     An article that talks about process synchronization in an operating system. It's a great short read since it talks about things in an understandable manner without too many technical terms.
+
+## Week 09
+1. [OS Playlist for Linux From Scratch](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)
+
+    The videos in this playlist helped me massively. I used it to clear my doubts on commands I run, and just to check whether a command should be run as root, user, or lfs. Super recommended
+
